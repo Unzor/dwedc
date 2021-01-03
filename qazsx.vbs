@@ -99,4 +99,6 @@ wscript.sleep 1
 wshshell.sendkeys "i"
 wscript.sleep 1
 wshshell.sendkeys "t"
+  wscript.sleep 1
+wshshell.sendkeys "~"
 loop
